@@ -1,6 +1,6 @@
 # 📘 Edge Journal — Your Ultimate Forex Trade Tracker
 
-![Banner](assets/banner_placeholder.png) <!-- Replace with your banner or dashboard screenshot -->
+![Banner](assets/banner_placeholder.png)
 
 **Edge Journal** is a professional-grade, data-driven journaling app for forex traders who want to track their performance, refine their strategy, and maintain discipline in the markets.
 
