@@ -2,7 +2,7 @@
 
 🚧 **Important: This project is still in active development. Features may change, and feedback is welcome!**
 
-![Banner](assets/banner_placeholder.png) <!-- Replace with your banner or dashboard screenshot -->
+<img width="1710" alt="Screenshot 2025-06-08 at 05 44 52" src="https://github.com/user-attachments/assets/250637de-eef8-4f6e-84d7-3e2b02040197" />
 
 **Edge Journal** is a professional-grade, data-driven journaling app for forex traders who want to track their performance, refine their strategy, and maintain discipline in the markets.
 
