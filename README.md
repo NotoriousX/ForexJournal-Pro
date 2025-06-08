@@ -104,7 +104,7 @@ Pull requests are welcome! Feel free to fork the repo, improve the logic, add fe
 
 ## 📬 Contact
 
-Made with ❤️ by [Abdullah Al-Sammarraie](https://github.com/NotoriousX)  
+Made with ❤️ by [Abdullah](https://github.com/NotoriousX)  
 For feedback or collaboration: abdullah_alsammarraie@outlook.com
 
 ---
