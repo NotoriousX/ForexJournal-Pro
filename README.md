@@ -34,8 +34,10 @@ Easily customizable and extensible — perfect for developers and advanced users
 ---
 
 ## 🖼️ Screenshots
+<img width="1218" alt="Screenshot 2025-06-08 at 05 48 38" src="https://github.com/user-attachments/assets/f879abaf-85dd-4554-803d-e7db05a0bcd7" />
 
-> Replace these placeholders with your actual screenshots.
+<img width="1213" alt="Screenshot 2025-06-08 at 05 49 26" src="https://github.com/user-attachments/assets/6ba2f908-43f1-4c71-822d-13133e3ab5ee" />
+
 
 ### 📂 Dashboard Overview  
 ![Dashboard](assets/screenshot_dashboard.png)
@@ -44,7 +46,11 @@ Easily customizable and extensible — perfect for developers and advanced users
 ![Analytics](assets/screenshot_analytics.png)
 
 ### ⚙️ Sidebar Controls  
-![Sidebar](assets/screenshot_sidebar.png)
+<img width="444" alt="Screenshot 2025-06-08 at 05 46 42" src="https://github.com/user-attachments/assets/d586f929-3ec9-4e7a-9ae7-2d178dcb1d50" /><img width="441" alt="Screenshot 2025-06-08 at 05 47 06" src="https://github.com/user-attachments/assets/8e315398-1040-43a0-bcc1-f231fea720de" />
+<img width="414" alt="Screenshot 2025-06-08 at 05 47 42" src="https://github.com/user-attachments/assets/804af832-2f99-4420-9d59-d6018f2d6b04" /><img width="441" alt="Screenshot 2025-06-08 at 05 48 07" src="https://github.com/user-attachments/assets/51253904-042b-48c8-be0b-276f845ee4df" />
+
+
+
 
 ---
 
