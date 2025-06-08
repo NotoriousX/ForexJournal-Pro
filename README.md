@@ -1,4 +1,4 @@
-# 📘 RELEASE DATE 10/08/2025⭐️ — Your Ultimate Forex Trade Tracker FREE AND OFFLINE
+# 📘 RELEASE DATE 10/08/2025⭐️ — Your Ultimate Forex Trade Tracker 
 
 🚧 **Important: This project is still in active development. Features may change, and feedback is welcome!**
 
