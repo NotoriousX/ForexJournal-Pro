@@ -100,8 +100,8 @@ Pull requests are welcome! Feel free to fork the repo, improve the logic, add fe
 
 ## 📬 Contact
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)  
-For feedback or collaboration: your.email@example.com
+Made with ❤️ by [Abdullah Al-Sammarraie](https://github.com/NotoriousX)  
+For feedback or collaboration: abdullah_alsammarraie@outlook.com
 
 ---
 
