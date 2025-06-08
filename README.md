@@ -1,8 +1,12 @@
 # 📘 Edge Journal — Your Ultimate Forex Trade Tracker
 
-![Banner](assets/banner_placeholder.png)
+🚧 **Important: This project is still in active development. Features may change, and feedback is welcome!**
+
+![Banner](assets/banner_placeholder.png) <!-- Replace with your banner or dashboard screenshot -->
 
 **Edge Journal** is a professional-grade, data-driven journaling app for forex traders who want to track their performance, refine their strategy, and maintain discipline in the markets.
+
+🚧 **Important: This project is still in active development. Features may change, and feedback is welcome!**
 
 Built with **Streamlit**, it empowers traders to upload trade data, visualize performance, calculate risk, and spot patterns — all in a beautiful and interactive dashboard.
 
