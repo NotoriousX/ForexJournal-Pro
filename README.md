@@ -40,10 +40,10 @@ Easily customizable and extensible — perfect for developers and advanced users
 
 
 ### 📂 Dashboard Overview  
-![Dashboard](assets/screenshot_dashboard.png)
+...
 
 ### 📉 Trade Analysis  
-![Analytics](assets/screenshot_analytics.png)
+...
 
 ### ⚙️ Sidebar Controls  
 <img width="444" alt="Screenshot 2025-06-08 at 05 46 42" src="https://github.com/user-attachments/assets/d586f929-3ec9-4e7a-9ae7-2d178dcb1d50" /><img width="441" alt="Screenshot 2025-06-08 at 05 47 06" src="https://github.com/user-attachments/assets/8e315398-1040-43a0-bcc1-f231fea720de" />
