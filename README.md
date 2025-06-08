@@ -57,10 +57,10 @@ Easily customizable and extensible — perfect for developers and advanced users
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/edge-journal.git
-cd edge-journal
+git clone https://github.com/NotoriousX/ForexJournal-Pro.git
+cd EDGE
 pip install -r requirements.txt
-streamlit run app/main.py
+streamlit run forex_journal.py
 ```
 
 ---
